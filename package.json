@@ -1,0 +1,19 @@
+{
+  "name": "npm-learn", // 库名
+  "version": "1.0.0",  // 版本号
+  "description": "npm 学习",  // 库的描述
+  "main": "index.js", // 入口
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" // 指令
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mr-ZhangJunJie/npm-learn.git"
+  },
+  "keywords": ["npm-learning"],
+  "author": "zhangjunjie",
+  "license": "ISC",
+  "dependencies": { // 依赖包
+    "lodash": "^4.17.21"
+  }
+}
