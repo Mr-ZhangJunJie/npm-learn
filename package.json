@@ -1,6 +1,6 @@
 {
   "name": "npm-learn",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/Mr-ZhangJunJie/npm-learn.git"
   },
+  "files": [
+    "es",
+    "lib"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
